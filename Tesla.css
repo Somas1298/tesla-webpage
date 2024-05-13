@@ -1,0 +1,42 @@
+#Topbar{
+    padding-left: 40px;
+}
+#Middlebar{
+    padding-left: 280px;
+    font-size: large;
+    
+}
+
+#Endbar{
+    padding-left: 280px;
+    font-size: larger;
+}
+#center{
+    font-size: xx-large;
+    padding-left: 580px;
+}
+#center1{
+    
+    padding-left: 535px;
+}
+#but1{
+    height: 2rem;
+    width: 15rem;
+    padding: 5px;
+    border: 0px;
+    background-color:white;
+    border-radius: 5px;
+    margin-left: 400px;
+    margin-top: 350px;
+}
+#but2{
+    height: 2rem;
+    width: 15rem;
+    padding: 5px;
+    border: 0px;
+    background-color:gray;
+    border-radius: 5px;
+    
+    
+    
+}
